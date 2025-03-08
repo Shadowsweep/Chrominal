@@ -1,7 +1,5 @@
-# Chrominal - A Terminal for Chrome  ![image](https://github.com/user-attachments/assets/442d45bd-4161-4e34-86b4-a4690c59dd05)
-
-
-
+# Chrominal - A Terminal for Chrome  
+<img src="https://github.com/user-attachments/assets/442d45bd-4161-4e34-86b4-a4690c59dd05" width="100%" alt="Chrominal" />
 
 ## 🚀 Overview
 Chrominal is a powerful **command-line interface for Google Chrome**, allowing you to manage and navigate your browsing experience efficiently using simple commands—just like a terminal!
