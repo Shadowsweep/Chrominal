@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Chrominal",
+    "version": "1.0",
+    "description": "A terminal-style command interface for Chrome",
+    "permissions": [
+      "tabs",
+      "bookmarks",
+      "history",
+      "storage",
+      "tabGroups"
+    ],
+    "host_permissions": [
+    "<all_urls>"
+  ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
